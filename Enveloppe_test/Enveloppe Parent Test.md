@@ -7,11 +7,11 @@ type: enveloppe-test
 
 ## 普通链接测试
 
-[Enveloppe Embedded Target](./Enveloppe%20Embedded%20Target.md.md)
+[Enveloppe Embedded Target](./Enveloppe%20Embedded%20Target.md)
 
 ## 笔记嵌入测试
 
-![Enveloppe Embedded Target](./Enveloppe%20Embedded%20Target.md.md)
+![Enveloppe Embedded Target](./Enveloppe%20Embedded%20Target.md)
 
 ## 说明
 
